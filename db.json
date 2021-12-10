@@ -1,8 +1,10 @@
 {
-  "error":false,
+  demo:{
+    "error":false,
   "message":"success",
   "demo": [{
     "one": 1,
     "two": "demoData"
   }]
+  }
 }
