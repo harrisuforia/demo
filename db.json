@@ -1,6 +1,6 @@
 {
   "error":false,
-  "message":success,
+  "message":"success",
   "demo": [{
     "one": 1,
     "two": "demoData"
