@@ -1,6 +1,8 @@
 {
-  "user": [{
-    "id": 1,
-    "name": "Robert"
+  "error":false,
+  "message":success,
+  "demo": [{
+    "one": 1,
+    "two": "demoData"
   }]
 }
